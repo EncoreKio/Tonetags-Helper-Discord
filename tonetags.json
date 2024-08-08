@@ -1,0 +1,137 @@
+{
+    "hj": {
+        "nom": "half joking",
+        "description": "Celui-ci serait un peu plus compliqué à expliquer.. Disons que l'autre une blague est à moitié sérieuse on peut utiliser celui-là!",
+        "example": "Je veux mourir /hj"
+    },
+    "j": {
+        "nom": "joking",
+        "description": "Ce tone tag est utilisé lorsque l'on blague ou alors pour préciser le second degré d'un message!",
+        "example": ""
+    },
+    "s": {
+        "nom": "sarcastic",
+        "description": "Pour préciser le ton sarcastique d'un message! Pas besoin de plus de précision pour celui-là.",
+        "example": ""
+    },
+    "srs": {
+        "nom": "serious",
+        "description": "La traduction est pour votre grand étonnement… Sérieux! Ce tone tag lui est utilisé pour marquer le ton sérieux d'un message, un peu utilisé comme le contraire de /j dans les tones tags.",
+        "example": "“Kio est marié à Mio /srs” est une phrase sérieuse."
+    },
+    "p": {
+        "nom": "platonic",
+        "description": "La traduction ici est platonique! Quand un message peut être vu ambiguë pour certaines personnes.. N'hésitez pas à utiliser ce tonetag pour bien montrer vos attentions complètement amicale est platonique!",
+        "example": ""
+    },
+    "r": {
+        "nom": "romantic",
+        "description": "Le contraire de platonique! Romantique! L'intention est la même que celui plus haut. Seulement cette fois, il est là pour marquer le ton romantique d'un message qui pourrait sembler flou…",
+        "example": ""
+    },
+    "l": {
+        "nom": "lyrics",
+        "description": "Lyrics est la traduction pour dire les paroles d'une chanson! Ce tone tag est là pour préciser que vos messages sont les paroles d'une chanson pour les personnes qui pourraient ne pas la connaître!",
+        "example": ""
+    },
+    "ly": {
+        "nom": "lyrics",
+        "description": "Lyrics est la traduction pour dire les paroles d'une chanson! Ce tone tag est là pour préciser que vos messages sont les paroles d'une chanson pour les personnes qui pourraient ne pas la connaître!",
+        "example": ""
+    },
+    "t": {
+        "nom": "teasing",
+        "description": "Le teasing est la taquinerie! Quand vous taquinez une personne ayant des difficultés avec la notion du second degré et autre, utilisez ce tonetag pour préciser vos bonnes intentions et simplement préciser que vous souhaitiez être taquin!",
+        "example": ""
+    },
+    "nm": {
+        "nom": "not actually mad or upset",
+        "description": "Désolé pour la traduction enfantine, mais ça se traduirait par un “pas énervé” ou alors “pas blessé”. Ça s'utilise pour préciser à la suite d'un message que la personne n'est pas en colère ou blessé. Ça s'utilise lorsque le message peut être vu ou entendu avec un ton plutôt agacé ou alors blessé.",
+        "example": ""
+    },
+    "nc": {
+        "nom": "negative connotation",
+        "description": "Une connotation négative! On utilise ce tonetag plutôt quand on veut exprimer un avis ou une idée, et que celle-ci est plutôt négative…",
+        "example": ""
+    },
+    "neg": {
+        "nom": "negative connotation",
+        "description": "Une connotation négative! On utilise ce tonetag plutôt quand on veut exprimer un avis ou une idée, et que celle-ci est plutôt négative…",
+        "example": ""
+    },
+    "pc": {
+        "nom": "positive connotation",
+        "description": "Une connotation positive cette fois! La même chose que le tonetag du haut sauf que cette fois c'est quand l'idée/l'avis est positive!",
+        "example": ""
+    },
+    "pos": {
+        "nom": "positive connotation",
+        "description": "Une connotation positive cette fois! La même chose que le tonetag du haut sauf que cette fois c'est quand l'idée/l'avis est positive!",
+        "example": ""
+    },
+    "Ih": {
+        "nom": "lighthearted",
+        "description": "Je le traduirais par niais! Un message niais sans réel arrière pensé. Juste un message plein de bonheur!",
+        "example": ""
+    },
+    "nbh": {
+        "nom": "nobody here",
+        "description": "Dans le sens littéral, nobody here serait traduit par un simple “personne n'est là”. Mais l'utilisation du tone tag n'a aucun rapport avec sa traduction… On utilise /nbh lorsqu'on se confesse ou vent! Sans viser les personnes autour ou alors quand on veut pas dévoiler l'identité de la personne!",
+        "example": "“J'ai un crush sur quelqu'un!!/nbh” ou alors.. “J'VOUS DÉTESTE/nbh”."
+    },
+    "m": {
+        "nom": "metaphorically",
+        "description": "Métaphoriquement. On utilise ce tone tag quand on veut faire un message métaphorique. Pour son explication on va utiliser un exemple comme le message au-dessus! ",
+        "example": "“Je veux être un oiseau/m”. Dans ce message on ne veut pas forcément dire que l'on souhaite devenir un oiseau! Le message est métaphorique et veut dire complètement autre chose! Comme par exemple exprimer son désir de liberté! Comme un oiseau prenant son envole…"
+    },
+    "li": {
+        "nom": "literally",
+        "description": "Traduction toujours aussi simple! Literally veut dire littéralement! Alors l'utilisation du tone tag est lorsque l'on veut littéralement dire ce qu'on écrit…",
+        "example": ""
+    },
+    "ij": {
+        "nom": "inside joke",
+        "description": "Je n'aurais pas réellement de traduction pour celui-ci. Alors je vais simplement expliquer son fonctionnement! /ij est quand on utilise une blague personnelle, simplement compréhensible pour soi-même ou un cercle proche!",
+        "example": ""
+    },
+    "rh": {
+        "nom": "rhetorical question",
+        "description": "Question rhétorique. Ce tone tag est utilisé lorsqu'on pose une question à soi-même!!",
+        "example": ""
+    },
+    "rt": {
+        "nom": "rhetorical question",
+        "description": "Question rhétorique. Ce tone tag est utilisé lorsqu'on pose une question à soi-même!!",
+        "example": ""
+    },
+    "genq": {
+        "nom": "genuine question",
+        "description": "Une question honnête!! Celui-ci est utilisé lorsqu'on pose une question ayant l'air stupide pour celle qui l'a posé. Qui pourrait sonner comme une blague pour la personne! Ou alors qui pourrait le prendre mal.",
+        "example": ""
+    },
+    "hyp": {
+        "nom": "hyperbole",
+        "description": "/hyp lui est lorsqu'on fait un espèce d'abus… ",
+        "example": "“Je suis le pire/hyp” pour exprimer que j'extrapole!!"
+    },
+    "c": {
+        "nom": "copypasta",
+        "description": "Copier-coller! Est-ce que j'ai vraiment besoin de l'expliquer…?",
+        "example": ""
+    },
+    "th": {
+        "nom": "threat",
+        "description": "Threat est une menace!! Fais gaffe si je l'utilise… Je pourrais me trouver devant chez toi.",
+        "example": ""
+    },
+    "f": {
+        "nom": "fake",
+        "description": "Faux! T'sais la réf a Norman… C'est quand ce qu'on dit est faux. ",
+        "example": "“J'ai vu une licorne hier!/f”"
+    },
+    "g": {
+        "nom": "genuine",
+        "description": "Ce tone tag est pour exprimer son honnêteté! Pour un compliment envers une personne manquant de confiance en elle par exemple!",
+        "example": ""
+    }
+}
