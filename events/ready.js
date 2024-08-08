@@ -5,6 +5,6 @@ module.exports = {
 	once: true,
 	execute(client) {
 		console.log(`INFO : Lancé sous l'identifiant ${client.user.tag}`);
-		client.user.setPresence({ activities: [{ name: 'surveillé le goulag..' }], status: 'online' });
+		client.user.setPresence({ activities: [{ name: 'découper loki /j' }], status: 'online' });
 	},
 };

@@ -41,7 +41,7 @@ module.exports = {
     async execute(interaction) {
         const tonetags = interaction.options.getString('tonetags');
         const embed = new EmbedBuilder()
-            .setTitle('__**🎲 ⦁  TonetagsHelp**__')
+            .setTitle(`__**🎲 ⦁  TonetagsHelp  /${tonetags}**__`)
             .setColor('#58d68d')
             .setFooter({ text: 'Informations sur les Tonetags | /credit ' });
 
